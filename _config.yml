@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 # title: Edit _config.yml to set your title!
-title: 宋和峰的blog
-description: 大概在一年前开始，想写一个关于自己和张文的网站来记录自己和这个异地恋女孩的一些事情，希望总会有一些惊喜发生❤
+title: SongHefeng&ZhangWen‘s blog
+description: About a year ago, I wanted to write a website about myself and Zhang Wen to record some things after I fell in love with this girl. I hope that there will always be some surprises  in the ordinary life..❤
 github_username: YinbingSong
 
 # Email and twitter are optional:
-email:
+email:song6151165@qq.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support

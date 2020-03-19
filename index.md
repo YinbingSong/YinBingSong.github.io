@@ -42,7 +42,6 @@
 - [x] 陪他去了她已经去过的橘子洲头
 - [x] 给她买一只口红作为生日礼物
 - [ ] 去她想去的广西
-- [ ] 去她想去的
 - [x] 见他的家长
 - [ ] 见她的家长
 - [ ] 结婚
@@ -50,4 +49,5 @@
 
 ---
 2016.6.27 于荆州·龙王塘，我们在一起了。
+
 2020.3.18 About two years ago, I wanted to write a blog, record edging a lot of small sweetness that happened after I fell in love with Zhang Wen, and now, I can finally do it.

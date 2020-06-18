@@ -1,4 +1,4 @@
-![Image of xiang.ai logo](images/xiangai.png) 
+![Image of songwen.ml logo](images/xiangai.png) 
 
 这里记录了 [@宋和峰](https://songwen.ml/blogsite/) 和 [@张文](https://songwen.ml/) 相爱以来发生的很多事情。相信我们还会留下更多美好的回忆。
 
